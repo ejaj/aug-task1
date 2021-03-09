@@ -1,6 +1,8 @@
 # aug-task1
 
 ## Project setup
+- git clone git@github.com:ejaj/aug-task1.git
+- cd directory.
 ```
 npm install
 ```
